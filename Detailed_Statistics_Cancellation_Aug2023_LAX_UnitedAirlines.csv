@@ -1,10 +1,3 @@
-Detailed Statistics Cancellation  
-Origin Airport: Los Angeles, CA: Los Angeles International (LAX)
-Airline: United Airlines Inc. (UA)
-Month(s): August
-Day(s): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 and 31
-Year(s): 2023
-
 Carrier Code,Date (MM/DD/YYYY),Flight_Number,Tail Number,Destination Airport
 "UA","08/01/2023","1733","","ORD"
 "UA","08/01/2023","1925","","DEN"
@@ -42,5 +35,3 @@ Carrier Code,Date (MM/DD/YYYY),Flight_Number,Tail Number,Destination Airport
 "UA","08/28/2023","2018","","TPA"
 "UA","08/29/2023","2018","","TPA"
 "UA","08/31/2023","1312","","SEA"
-
- SOURCE: Bureau of Transportation Statistics
