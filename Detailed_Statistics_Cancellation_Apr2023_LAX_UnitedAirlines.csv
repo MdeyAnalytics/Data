@@ -1,0 +1,24 @@
+Detailed Statistics Cancellation  
+Origin Airport: Los Angeles, CA: Los Angeles International (LAX)
+Airline: United Airlines Inc. (UA)
+Month(s): April
+Day(s): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 and 31
+Year(s): 2023
+
+Carrier Code,Date (MM/DD/YYYY),Flight_Number,Tail Number,Destination Airport
+"UA","04/01/2023","2265","","DEN"
+"UA","04/03/2023","1897","","ORD"
+"UA","04/05/2023","1597","","SFO"
+"UA","04/05/2023","1617","","ORD"
+"UA","04/05/2023","2611","","SFO"
+"UA","04/06/2023","1054","","SEA"
+"UA","04/09/2023","1140","","IAD"
+"UA","04/10/2023","1006","","LAS"
+"UA","04/20/2023","2063","","LAS"
+"UA","04/20/2023","2072","N74856","IAH"
+"UA","04/22/2023","1082","","EWR"
+"UA","04/27/2023","1568","","IAH"
+"UA","04/28/2023","0490","","LAS"
+"UA","04/30/2023","1700","","EWR"
+
+ SOURCE: Bureau of Transportation Statistics

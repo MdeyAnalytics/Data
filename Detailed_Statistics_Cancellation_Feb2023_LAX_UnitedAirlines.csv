@@ -1,0 +1,15 @@
+Detailed Statistics Cancellation  
+Origin Airport: Los Angeles, CA: Los Angeles International (LAX)
+Airline: United Airlines Inc. (UA)
+Month(s): February
+Day(s): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 and 31
+Year(s): 2023
+
+Carrier Code,Date (MM/DD/YYYY),Flight_Number,Tail Number,Destination Airport
+"UA","02/05/2023","2039","","ORD"
+"UA","02/21/2023","0552","","DEN"
+"UA","02/22/2023","1170","","HNL"
+"UA","02/22/2023","1655","","DEN"
+"UA","02/23/2023","1158","","HNL"
+
+ SOURCE: Bureau of Transportation Statistics
